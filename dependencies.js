@@ -36,3 +36,5 @@ load_jquery();
 load_bootstrap_css();
 load_bootstrap_js();
 load_popper();
+
+main_function();
